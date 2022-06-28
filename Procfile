@@ -1,1 +1,1 @@
-node polygon.js
+npm start
