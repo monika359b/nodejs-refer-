@@ -16,7 +16,7 @@ module.exports = {
     
     daily_bonus:100,// daily bonus amount
     
-    currency:'tro', //bot currency
+    currency:'testing', //bot currency
     
     contractaddress :  '0x43a927aa7927fce2588025cccb13a8fd0632c059', //contract address of coin
     
