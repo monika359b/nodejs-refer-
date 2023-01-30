@@ -3,7 +3,7 @@
     "builds": [
       {
         "src": "polygon.js",
-        "use": "@pm2/prod"
+        "use": "@pm2"
       }
     ],
     "env": {
