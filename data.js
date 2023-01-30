@@ -1,22 +1,22 @@
 module.exports = {
 
-    mongoLink:'mongodb://mongo:VLD3xqMnXNiAtkfz2Ylu@containers-us-west-48.railway.app:6753',//database link
+    mongoLink:'mongodb://mongo:19fZMnI2ZWgYeDG0Uqok@containers-us-west-47.railway.app:7276',//database link
     
-    bot_token:'5488204309:AAFkeqJ_-VMHuWLzZq6gC3-4YKgCFJAtjvc',//bot token
+    bot_token:'5881600656:AAGGyjJ-ZQt-XmiTr8RGi2mpeUlcL0KcTR4',//bot token
     
-    bot_name:'Polygongggggbot',//bot username without @
+    bot_name:'nodejoldsbot',//bot username without @
     
     bot_admin:5159732126,// admin telegram id
     
-    channelsList : ['@fjfndndnfbt'],// channels list
+    channelsList : ['@alwayspolite_updates','@alwayspolite_updates'],// channels list
     
-    reffer_bonus:5,// refferal bonus amount
+    reffer_bonus:0.01,// refferal bonus amount
     
-    min_wd:1,//min withdrawal amount
+    min_wd:0,//min withdrawal amount
     
-    daily_bonus:100,// daily bonus amount
+    daily_bonus:0.02,// daily bonus amount
     
-    currency:'testing', //bot currency
+    currency:'Matic', //bot currency
     
     contractaddress :  '0x43a927aa7927fce2588025cccb13a8fd0632c059', //contract address of coin
     
@@ -24,6 +24,6 @@ module.exports = {
     
     address : '0x0d133ce1f292C8f41674b1ac79fbB630a7230f03',//polygon address of wallet
     
-    payment_channel:'@fjfndndnfbt'// payment channel username
+    payment_channel:'@alwayspolite_updates'// payment channel username
     
     }

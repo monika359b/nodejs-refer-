@@ -10,7 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.2.6",
     "mongo": "^0.1.0",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "telegraf": "^4.11.2",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "pm2": "^5.2.2"
   }
 }

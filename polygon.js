@@ -784,7 +784,7 @@ function rndInt(min, max){
   
   function mustJoin(ctx){
  
-    msg ='*🔎Join our all channel*\n*➖➖➖➖➖➖➖➖➖➖➖*\n*@AirdropProgrammer*\n*➖➖➖➖➖➖➖➖➖➖➖*\n[🔰Follow Our Twiter Account](https://twitter.com/airdrophyper)\n[🔰Join Our Payout Channel](https://t.me/)\n*➖➖➖➖➖➖➖➖➖➖➖*\n*🛃 Before Using This Bot!*', { parse_mode: 'markdown', disable_web_page_preview : 'true' , reply_markup: { inline_keyboard:[[{ text: "✅ Check", callback_data: "checkoo" }]]} }
+    msg ='*🔎Join our all channel*\n*➖➖➖➖➖➖➖➖➖➖➖*\n*@alwayspolite_updates*\n*➖➖➖➖➖➖➖➖➖➖➖*\n[🔰Follow Our Twiter Account](https://twitter.com/)\n[🔰Join Our Payout Channel](https://t.me/alwayspolite_updates)\n*➖➖➖➖➖➖➖➖➖➖➖*\n*🛃 Before Using This Bot!*', { parse_mode: 'markdown', disable_web_page_preview : 'true' , reply_markup: { inline_keyboard:[[{ text: "✅ Check", callback_data: "checkoo" }]]} }
   
   ctx.replyWithMarkdown(msg, { parse_mode: 'markdown', disable_web_page_preview : 'true' , reply_markup: { inline_keyboard:[[{ text: "✅ Check", callback_data: "checkoo" }]]} })
   }
